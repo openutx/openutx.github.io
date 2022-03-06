@@ -1,3 +1,3 @@
 # UTX API Documentation
 
-# https://openutx.github.io/
+# https://openutx.github.io
